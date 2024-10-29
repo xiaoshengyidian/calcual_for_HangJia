@@ -1,0 +1,2 @@
+# calcual_for_HangJia
+用于计算理论力学实验桁架部分的代码
